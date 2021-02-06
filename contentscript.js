@@ -1,4 +1,4 @@
-// 
+// 20210205
 // structure of Xero bank reconciliation page
 // Line :  each reconciliation item is displayed as a line (class=line) with a unique GUID for transactionID
 //          set as the Div ID for the .line container.
